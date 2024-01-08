@@ -132,13 +132,13 @@ const StyledLinks = styled.div`
       a {
         padding: 10px;
 
-        &:before {
+        /* &:before {
           content: '0' counter(item) '.';
           margin-right: 5px;
           color: var(--green);
           font-size: var(--fz-xxs);
           text-align: right;
-        }
+        } */
       }
     }
   }
