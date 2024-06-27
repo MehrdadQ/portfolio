@@ -6,7 +6,7 @@ github: 'https://github.com/MehrdadQ/music-player-2.0'
 external: 'https://mehrdadq.github.io/music-player-2.0'
 tech:
   - React
-  - Bootstrao
+  - Bootstrap
   - Firebase
   - SCSS
 ---

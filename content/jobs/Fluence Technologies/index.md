@@ -1,6 +1,6 @@
 ---
 date: '2023-05-01'
-title: 'Software Development Intern'
+title: 'Software Engineer Intern'
 company: 'Fluence Technologies'
 location: 'Toronto, ON'
 range: 'May - September 2023'

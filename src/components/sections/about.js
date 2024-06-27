@@ -145,8 +145,6 @@ const About = () => {
               expanding my skillset while building solutions that matter to users.
             </p>
 
-            <p>I'm currently seeking Summer 2024 internships.</p>
-
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
