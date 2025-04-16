@@ -135,8 +135,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey there! My name is Mehrdad and I'm a 3rd-year Computer Science student at the
-              University of Toronto. As a result of past co-op/internship experiences, I've gained
+              Hey there! My name is Mehrdad and I'm a recent Computer Science graduate from
+              the University of Toronto. As a result of past co-op/internship experiences, I've gained
               valuable experience in full-stack development.
             </p>
 
